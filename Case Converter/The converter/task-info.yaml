@@ -1,0 +1,25 @@
+type: edu
+files:
+- name: test/test.js
+  visible: false
+  learner_created: false
+- name: src/index.html
+  visible: true
+  text: |
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13999#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 01 Aug 2022 23:50:00 UTC
+record: 1

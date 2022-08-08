@@ -1,0 +1,26 @@
+type: edu
+custom_name: Upper or lower?
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14000#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 02 Aug 2022 01:59:44 UTC
+record: 2
